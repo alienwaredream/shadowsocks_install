@@ -66,7 +66,7 @@ ShadowsocksR 版：
 /etc/init.d/shadowsocks-r start | stop | restart | status
 
 Shadowsocks-Go 版：
-/etc/init.d/shadowsocks-go start | stop | restart | status
+/etc/init.d/shadowsocks start | stop | restart | status
 
 Shadowsocks-libev 版：
 /etc/init.d/shadowsocks-libev start | stop | restart | status
